@@ -1,0 +1,785 @@
+{
+  "code": 0,
+  "color": 6324384,
+  "comment_num": 659,
+  "cur_song_num": 50,
+  "date": "2020_7",
+  "day_of_year": "",
+  "song_begin": 0,
+  "songlist": [
+    {
+      "Franking_value": "1",
+      "cur_count": "1",
+      "data": {
+        "albumdesc": "",
+        "albumid": 9160555,
+        "albummid": "0037Yq3H3RznaX",
+        "albumname": "桥边姑娘",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 183,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 56459,
+          "tryend": 84621,
+          "trysize": 960887
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 1294564,
+            "mid": "0041vdG63lbLge",
+            "name": "海伦"
+          }
+        ],
+        "size128": 2931359,
+        "size320": 7328081,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 20665526,
+        "sizeogg": 4495348,
+        "songid": 244625442,
+        "songmid": "001zLvbN1NYMuv",
+        "songname": "桥边姑娘",
+        "songorig": "桥边姑娘",
+        "songtype": 0,
+        "strMediaMid": "001zLvbN1NYMuv",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "7",
+      "old_count": "1"
+    },
+    {
+      "Franking_value": "2",
+      "cur_count": "2",
+      "data": {
+        "albumdesc": "",
+        "albumid": 9327357,
+        "albummid": "000dUlqW3lbyob",
+        "albumname": "下山",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 173,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 37414,
+          "tryend": 61868,
+          "trysize": 960887
+        },
+        "rate": 7,
+        "singer": [
+          {
+            "id": 4185269,
+            "mid": "001adk3q0FE3XP",
+            "name": "要不要买菜"
+          }
+        ],
+        "size128": 2775861,
+        "size320": 6939361,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 0,
+        "sizeogg": 3875329,
+        "songid": 245340206,
+        "songmid": "001GAAVj1GjW8F",
+        "songname": "下山",
+        "songorig": "下山",
+        "songtype": 0,
+        "strMediaMid": "004dmA9q3YPzz0",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "7",
+      "old_count": "2"
+    },
+    {
+      "Franking_value": "3",
+      "cur_count": "3",
+      "data": {
+        "albumdesc": "《前任3：再见前任》电影插曲",
+        "albumid": 3827222,
+        "albummid": "001qYTzY2oyDyZ",
+        "albumname": "体面",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 282,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 89005,
+          "tryend": 135712,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 67008,
+            "mid": "000poF8D027tPr",
+            "name": "于文文"
+          }
+        ],
+        "size128": 4525434,
+        "size320": 11313071,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 27226341,
+        "sizeogg": 6118812,
+        "songid": 212606735,
+        "songmid": "000Md1wq0vnwzE",
+        "songname": "体面",
+        "songorig": "体面",
+        "songtype": 0,
+        "strMediaMid": "001kMEcr1vxQW0",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "c0025c297rz"
+      },
+      "in_count": "7",
+      "old_count": "4"
+    },
+    {
+      "Franking_value": "10",
+      "cur_count": "4",
+      "data": {
+        "albumdesc": "",
+        "albumid": 8957599,
+        "albummid": "001Pj9F21SiHNx",
+        "albumname": "冬眠",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 269,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 92956,
+          "tryend": 122853,
+          "trysize": 960887
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 2169579,
+            "mid": "0001CJGI3KUaN6",
+            "name": "司南"
+          }
+        ],
+        "size128": 4314362,
+        "size320": 10785624,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 26213182,
+        "sizeogg": 5803072,
+        "songid": 243750328,
+        "songmid": "001U2GJO2hSzQW",
+        "songname": "冬眠",
+        "songorig": "冬眠",
+        "songtype": 0,
+        "strMediaMid": "001U2GJO2hSzQW",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "3",
+      "old_count": "10"
+    },
+    {
+      "Franking_value": "3",
+      "cur_count": "5",
+      "data": {
+        "albumdesc": "",
+        "albumid": 9045596,
+        "albummid": "001ag9vZ3zT8OM",
+        "albumname": "你的答案",
+        "alertid": 21,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 219,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 66651,
+          "tryend": 93423,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 3134871,
+            "mid": "003fMYXH2bFtHu",
+            "name": "阿冗"
+          }
+        ],
+        "size128": 3519412,
+        "size320": 8798237,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 27041800,
+        "sizeogg": 5088956,
+        "songid": 244135851,
+        "songmid": "003UAhhG2Bm3Nq",
+        "songname": "你的答案",
+        "songorig": "你的答案",
+        "songtype": 0,
+        "strMediaMid": "003UAhhG2Bm3Nq",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "d00324t2q88"
+      },
+      "in_count": "7",
+      "old_count": "3"
+    },
+    {
+      "Franking_value": "2",
+      "cur_count": "6",
+      "data": {
+        "albumdesc": "",
+        "albumid": 7319955,
+        "albummid": "002lJJi244utqN",
+        "albumname": "嚣张",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 253,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 86334,
+          "tryend": 113945,
+          "trysize": 960887
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 3344766,
+            "mid": "001IkitI4Gcu5u",
+            "name": "en"
+          }
+        ],
+        "size128": 4065259,
+        "size320": 10162654,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 51852196,
+        "sizeogg": 5705170,
+        "songid": 235802819,
+        "songmid": "001Hp44V3pCQ53",
+        "songname": "嚣张",
+        "songorig": "嚣张",
+        "songtype": 0,
+        "strMediaMid": "001Hp44V3pCQ53",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "7",
+      "old_count": "5"
+    },
+    {
+      "Franking_value": "6",
+      "cur_count": "7",
+      "data": {
+        "albumdesc": "《后来的我们》电影彩蛋歌曲",
+        "albumid": 96218,
+        "albummid": "0017zqT34WuQwa",
+        "albumname": "我等你",
+        "alertid": 2,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 341,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 51,
+            "mid": "003jJGvv3C82KZ",
+            "name": "刘若英"
+          }
+        ],
+        "size128": 5463754,
+        "size320": 13658913,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 39049298,
+        "sizeogg": 8084534,
+        "songid": 4830150,
+        "songmid": "000XeLXA3X8CTH",
+        "songname": "后来",
+        "songorig": "后来",
+        "songtype": 0,
+        "strMediaMid": "000ImmUb1tGQb8",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "l0012mf2nkr"
+      },
+      "in_count": "7",
+      "old_count": "6"
+    },
+    {
+      "Franking_value": "8",
+      "cur_count": "8",
+      "data": {
+        "albumdesc": "",
+        "albumid": 951982,
+        "albummid": "004GArUe26PXvZ",
+        "albumname": "如也",
+        "alertid": 2,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 253,
+        "isonly": 0,
+        "label": "4611686018435776769",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 54426,
+          "tryend": 122839,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 940748,
+            "mid": "004WgCsE3KBddt",
+            "name": "陈粒"
+          }
+        ],
+        "size128": 4050636,
+        "size320": 10126300,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 24049275,
+        "sizeogg": 5244171,
+        "songid": 102068222,
+        "songmid": "001j7B3Z4Ixe9X",
+        "songname": "奇妙能力歌",
+        "songorig": "奇妙能力歌",
+        "songtype": 0,
+        "strMediaMid": "003QxEg83QZ9Mh",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "7",
+      "old_count": "8"
+    },
+    {
+      "Franking_value": "9",
+      "cur_count": "9",
+      "data": {
+        "albumdesc": "",
+        "albumid": 5540670,
+        "albummid": "001Zrk6t0urxvG",
+        "albumname": "像鱼",
+        "alertid": 21,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 285,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 83720,
+          "tryend": 139327,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 2161796,
+            "mid": "004OSbYx4geABL",
+            "name": "王贰浪"
+          }
+        ],
+        "size128": 4565566,
+        "size320": 11413618,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 29345290,
+        "sizeogg": 6560476,
+        "songid": 224827783,
+        "songmid": "000NHikR1jV7Zz",
+        "songname": "像鱼",
+        "songorig": "像鱼",
+        "songtype": 0,
+        "strMediaMid": "000NHikR1jV7Zz",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "p00320qewba"
+      },
+      "in_count": "7",
+      "old_count": "11"
+    },
+    {
+      "Franking_value": "4",
+      "cur_count": "10",
+      "data": {
+        "albumdesc": "",
+        "albumid": 7876962,
+        "albummid": "002gBTVk4JEE2T",
+        "albumname": "说好不哭（with 五月天阿信）",
+        "alertid": 22,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 222,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 13,
+        "pay": {
+          "payalbum": 1,
+          "payalbumprice": 300,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 1,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 75544,
+          "tryend": 99601,
+          "trysize": 960887
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 4558,
+            "mid": "0025NhlN2yWrP4",
+            "name": "周杰伦"
+          }
+        ],
+        "size128": 3558702,
+        "size320": 8896459,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 43879570,
+        "sizeogg": 4800957,
+        "songid": 237773700,
+        "songmid": "001qvvgF38HVc4",
+        "songname": "说好不哭（with 五月天阿信）",
+        "songorig": "说好不哭（with 五月天阿信）",
+        "songtype": 0,
+        "strMediaMid": "001qvvgF38HVc4",
+        "stream": 1,
+        "switch": 17421569,
+        "type": 0,
+        "vid": "t0032kwa29w"
+      },
+      "in_count": "7",
+      "old_count": "7"
+    },
+    {
+      "Franking_value": "5",
+      "cur_count": "11",
+      "data": {
+        "albumdesc": "",
+        "albumid": 7040118,
+        "albummid": "001fmWDH4I0aBK",
+        "albumname": "那女孩对我说",
+        "alertid": 2,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 280,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 72998,
+          "tryend": 124410,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 3298773,
+            "mid": "003yGiqM2qF7Gm",
+            "name": "Uu"
+          }
+        ],
+        "size128": 4490339,
+        "size320": 11225542,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 55094722,
+        "sizeogg": 6177503,
+        "songid": 233583097,
+        "songmid": "001LokF20Yw4xD",
+        "songname": "那女孩对我说 (完整版)",
+        "songorig": "那女孩对我说",
+        "songtype": 0,
+        "strMediaMid": "001LokF20Yw4xD",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "in_count": "7",
+      "old_count": "9"
+    },
+    {
+      "Franking_value": "11",
+      "cur_count": "12",
+      "data": {
+        "albumdesc": "",
+        "albumid": 8031,
+        "albummid": "001ACTlE01fU6a",
+        "albumname": "欧若拉",
+        "alertid": 21,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 261,
+        "isonly": 1,
+        "label": "4611703473182867457",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 59979,
+          "tryend": 84525,
+          "trysize": 960887
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 224,
+            "mid": "002raUWw3PXdkT",
+            "name": "张韶涵"
+          }
+        ],
+        "size128": 4191488,
+        "size320": 10478430,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 30682394,
+        "sizeogg": 6284996,
+        "songid": 102366335,
+        "songmid": "001t1qJd0DaKOs",
+        "songname": "欧若拉",
+        "songorig": "欧若拉",
+        "songtype": 0,
+        "strMediaMid": "00363yuy33r0JO",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "p00299dgy2r"
+      },
+      "in_count": "7",
+      "old_count": "12"
+    },
+    {
+      "Franking_value": "11",
+      "cur_count": "13",
+      "data": {
+        "albumdesc": "",
+        "albumid": 1666157,
+        "albummid": "000jE4g74VS43p",
+        "albumname": "无法长大",
+        "alertid": 2,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 328,
+        "isonly": 0,
+        "label": "4611686018435776769",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 1,
+          "payalbumprice": 1600,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 83160,
+          "tryend": 116143,
+          "trysize": 0
+        },
+        "rate": 23,
+        "singer": [
+          {
+            "id": 40449,
+            "mid": "001Lr98T0yEWAk",
+            "name": "赵雷"
+          }
+        ],
+        "size128": 5249759,
+        "size320": 13124110,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 32010277,
+        "sizeogg": 7041700,
+        "songid": 108963136,
+        "songmid": "001bhwUC1gE6ep",
+        "songname": "成都",
+        "songorig": "成都",
+        "songtype": 0,
+        "strMediaMid": "002JJDz72hlzKw",
+        "stream": 1,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "m00244ktl0u"
+      },
+      "in_count": "7",
+      "old_count": "15"
+    }
+  ],
+  "topinfo": {
+    "ListName": "巅峰榜·K歌金曲",
+    "MacDetailPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34147.png",
+    "MacListPicUrl": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34147.png",
+    "UpdateType": "0",
+    "albuminfo": "",
+    "headPic_v12": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34144.png",
+    "info": "集结当下全民K歌热门的点唱歌曲，展现K歌用户的点唱趋势。 更新时间：每周四 歌曲数量：50首 统计算法：根据用户在全民K歌的点唱行为进行排序",
+    "listennum": 1899330,
+    "pic": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34147.png",
+    "picDetail": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34144.png",
+    "pic_album": "http://imgcache.qq.com/music/photo_new/T002R300x300M0000037Yq3H3RznaX.jpg",
+    "pic_h5": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34144.png",
+    "pic_v11": "http://y.gtimg.cn/music/common/upload/t_order_channel_hitlist_conf/34147.png",
+    "pic_v12": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003WZIxq1sfw5s.jpg",
+    "topID": "36",
+    "type": "0"
+  },
+  "total_song_num": 50,
+  "update_time": "2020-02-13"
+}
